@@ -1,4 +1,4 @@
-# Problem Set X: Valid Parentheses
+# Problem Set 2: Valid Parentheses
 
 ## Problem Description
 
